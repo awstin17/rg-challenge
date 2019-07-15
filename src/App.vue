@@ -3,6 +3,7 @@
     <Header />
     <FirstSection />
     <SecondSection />
+    <ThirdSection />
   </div>
 </template>
 
@@ -11,12 +12,15 @@ import { Component, Vue } from "vue-property-decorator";
 import Header from "./components/Header.vue";
 import FirstSection from "./components/First-Section.vue";
 import SecondSection from "./components/Second-Section.vue";
+import ThirdSection from "./components/Third-Section.vue";
+
 
 @Component({
   components: {
     Header,
     FirstSection,
-    SecondSection
+    SecondSection,
+    ThirdSection
   }
 })
 export default class App extends Vue {}
