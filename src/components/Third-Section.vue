@@ -1,6 +1,6 @@
 <template>
   <div id="container" class="container-fluid p-0">
-    <div class="row no-gutters" style="height: 550px">
+    <div class="row no-gutters">
       <div class="col-3 offset-2 d-flex flex-column justify-content-center align-items-start">
         <h1 class="font-weight-bold">LOREM IPSUM DOLOR SIT AMET</h1>
         <p>Lorem ipsum dolor sit amet, et felis integer. Cras ac, duis nisl magna est sociis, neque in odio vel, sit lobortis erat. Fugit quam, ut pede ut ante, in viverra eros dictum nisl ligula.</p>

@@ -1,6 +1,6 @@
 <template>
   <div id="container" class="container-fluid p-0">
-    <div class="row no-gutters" style="height: 550px">
+    <div class="row no-gutters" style="height: 600px">
       <div class="col-3 offset-2 d-flex flex-column justify-content-center align-items-start">
         <h1 class="font-weight-bold" style="color: #613476">Lorem Ipsum</h1>
         <button style="background-color: #FF7218" class="btn text-white">BUTTON BUTTON</button>
