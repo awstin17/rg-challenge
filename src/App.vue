@@ -6,6 +6,7 @@
     <ThirdSection />
     <FourthSection />
     <FifthSection />
+    <Footer />
   </div>
 </template>
 
@@ -17,6 +18,7 @@ import SecondSection from "./components/Second-Section.vue";
 import ThirdSection from "./components/Third-Section.vue";
 import FourthSection from "./components/Fourth-Section.vue";
 import FifthSection from "./components/Fifth-Section.vue";
+import Footer from "./components/footer.vue";
 
 @Component({
   components: {
@@ -25,7 +27,8 @@ import FifthSection from "./components/Fifth-Section.vue";
     SecondSection,
     ThirdSection,
     FourthSection,
-    FifthSection
+    FifthSection,
+    Footer
   }
 })
 export default class App extends Vue {}
