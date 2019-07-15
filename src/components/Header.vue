@@ -1,5 +1,5 @@
 <template>
-  <div id="jumbotron" class="jumbotron pt-3">
+  <div id="jumbotron" class="jumbotron pt-3 mb-0">
     <div class="container">
       <div class="row">
         <div class="col-4 offset-1">

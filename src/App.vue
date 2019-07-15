@@ -1,23 +1,27 @@
 <template>
   <div id="app">
-    <Header msg="Welcome to Your Vue.js + TypeScript App" />
+    <Header />
+    <FirstSection />
   </div>
 </template>
 
 <script lang="ts">
 import { Component, Vue } from "vue-property-decorator";
 import Header from "./components/Header.vue";
+import FirstSection from "./components/First-Section.vue";
 
 @Component({
   components: {
-    Header
+    Header,
+    FirstSection
   }
 })
 export default class App extends Vue {}
 </script>
 
 <style lang="scss">
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700,800&display=swap");
 #app {
-  font-family: "Avenir", Helvetica, Arial, sans-serif;
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
 }
 </style>
