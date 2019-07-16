@@ -1,9 +1,15 @@
 <template>
   <div id="container" class="container-fluid p-0 parallax-desktop">
     <div class="row no-gutters" style="height: 600px">
-      <div class="col-6 col-sm-3 offset-1 offset-sm-2 my-auto">
-        <h1 class="font-weight-bold" style="color: #613476">LOREM IPSUM</h1>
-        <button style="background-color: #FF7218" class="btn text-white">BUTTON BUTTON</button>
+      <div
+        style="background-color: rgba(247, 247, 247, 0.8); border-radius: 7%"
+        class="col-10 offset-1 col-sm-6 offset-sm-2 my-auto p-3"
+      >
+        <h1 class="text-center font-weight-bold" style="color: #613476">LOREM IPSUM</h1>
+        <button
+          style="background-color: #FF7218"
+          class="d-block btn text-white m-auto"
+        >BUTTON BUTTON</button>
       </div>
     </div>
   </div>
