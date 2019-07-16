@@ -1,17 +1,19 @@
 <template>
   <div id="container" class="container-fluid p-0">
-    <div class="row no-gutters">
-      <div class="col-3 offset-2 d-flex flex-column justify-content-center align-items-start">
+    <div style="min-height: 600px" class="row">
+      <div
+        class="col-12 col-sm-3 offset-sm-2 d-flex flex-column justify-content-center align-items-start px-4 py-5"
+      >
         <h1 class="font-weight-bold">LOREM IPSUM DOLOR SIT AMET</h1>
         <p>Lorem ipsum dolor sit amet, et felis integer. Cras ac, duis nisl magna est sociis, neque in odio vel, sit lobortis erat. Fugit quam, ut pede ut ante, in viverra eros dictum nisl ligula.</p>
-        <a style="color: #613476">> Lorem Ipsum</a>
+        <a href="#" style="color: #613476">> Lorem Ipsum</a>
       </div>
       <div
         style="background-color: #FAFAFA"
-        class="col-6 offset-1 d-flex flex-column justify-content-around p-5"
+        class="col-12 col-sm-6 offset-sm-1 p-3 d-flex flex-column justify-content-center align-items-center py-5"
       >
-        <div class="row my-5">
-          <div class="col-5 offset-1 text-center">
+        <div style="max-width: 700px" class="row w-100 mb-5">
+          <div class="col-6 col-sm-5 offset-sm-1 text-center">
             <div style="width: 80px" class="border rounded-circle image-container mx-auto mb-3">
               <img class="p-3" src="../assets/home-expertise.svg" width="100%" />
             </div>
@@ -24,8 +26,8 @@
             <h5>LOREM IPSUM</h5>
           </div>
         </div>
-        <div class="row mb-5">
-          <div class="col-5 offset-1 text-center">
+        <div class="row w-100">
+          <div class="col-6 col-sm-5 offset-sm-1 text-center">
             <div style="width: 80px" class="border rounded-circle image-container mx-auto mb-3">
               <img class="p-3" src="../assets/home-lab.svg" width="100%" />
             </div>
