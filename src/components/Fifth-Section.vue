@@ -1,15 +1,16 @@
 <template>
   <div class="container-fluid p-0">
-    <div class="row no-gutters align-items-center" style="height: 600px">
-      <div class="col-3 offset-2 d-flex flex-column justify-content-center">
-        <h1 class="font-weight-bold" style="color: #613476">LOREM IPSUM DOLOR SIT AMET</h1>
+    <div class="row no-gutters align-items-center pb-5 pb-sm-0" style="min-height: 600px">
+      <div class="py-5 col-12 col-sm-3 offset-sm-2 d-flex flex-column justify-content-center">
+        <h1 class="text-center font-weight-bold" style="color: #613476">LOREM IPSUM DOLOR SIT AMET</h1>
         <img
           src="../assets/stars.png"
           style="height: auto; width: 100%; max-width: 176px; max-height: 26px"
+          class="m-auto"
         />
       </div>
 
-      <div class="col-4 offset-1">
+      <div class="col-8 offset-2 col-sm-4 offset-sm-1 pb-5 pb-sm-0">
         <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
           <ol class="carousel-indicators" style="bottom: -60px">
             <li
