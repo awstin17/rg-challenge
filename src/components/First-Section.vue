@@ -6,9 +6,7 @@
         <p>Lorem ipsum dolor sit amet, et felis integer. Cras ac, duis nisl magna est sociis, neque in odio vel, sit lobortis erat. Fugit quam, ut pede ut ante, in viverra eros dictum nisl ligula, lacus est vehicula donec. Quam in ac quam. Duis et, non arcu imperdiet sem tellus suspendisse. Condimentum non aliquet sed, quisque risus vitae semper duis feugiat .</p>
         <a href style="color: #613476">> Lorem Ipsum</a>
       </div>
-      <div style="min-height: 400px" id="test" class="col-12 col-sm-6 offset-sm-1 pb-5 pb-sm-0">
-        <!-- <img style="object-fit: cover; overflow: scroll" height="100%" src="../assets/img-1.jpg" /> -->
-      </div>
+      <div style="min-height: 400px" id="test" class="col-12 col-sm-6 offset-sm-1 pb-5 pb-sm-0"></div>
     </div>
   </div>
 </template>
@@ -27,5 +25,6 @@ export default class FirstSection extends Vue {
 #test {
   background-image: url("../assets/img-1.jpg");
   background-position: 50%;
+  background-size: cover;
 }
 </style>

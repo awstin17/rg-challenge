@@ -39,4 +39,10 @@ export default class App extends Vue {}
 #app {
   font-family: "Open Sans", Helvetica, Arial, sans-serif;
 }
+
+.parallax-desktop {
+  @media (min-width: 576px) {
+    background-attachment: fixed;
+  }
+}
 </style>

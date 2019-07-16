@@ -1,6 +1,6 @@
 <template>
   <div id="container" class="container-fluid p-0">
-    <div style="min-height: 600px" class="row">
+    <div style="min-height: 600px" class="row no-gutters">
       <div
         class="col-12 col-sm-3 offset-sm-2 d-flex flex-column justify-content-center align-items-start px-4 py-5"
       >

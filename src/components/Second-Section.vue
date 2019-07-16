@@ -1,6 +1,6 @@
 <template>
-  <div id="container" class="container-fluid p-0">
-    <div class="row" style="height: 600px">
+  <div id="container" class="container-fluid p-0 parallax-desktop">
+    <div class="row no-gutters" style="height: 600px">
       <div class="col-6 col-sm-3 offset-1 offset-sm-2 my-auto">
         <h1 class="font-weight-bold" style="color: #613476">LOREM IPSUM</h1>
         <button style="background-color: #FF7218" class="btn text-white">BUTTON BUTTON</button>
@@ -23,7 +23,6 @@ export default class SecondSection extends Vue {
 #container {
   background-image: url("../assets/banner-1.jpg");
   background-size: cover;
-  background-attachment: fixed;
   background-position: 60%;
 }
 </style>
