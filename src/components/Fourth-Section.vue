@@ -2,8 +2,8 @@
   <div id="container" class="container-fluid p-0 parallax-desktop">
     <div class="row no-gutters align-items-end" style="min-height: 600px">
       <div
-        style="background-color: rgba(247, 247, 247, 0.8); border-radius: 7%"
-        class="text-center text-sm-left col-10 offset-1 col-sm-3 offset-sm-7 d-flex flex-column justify-content-center align-items-start p-3"
+        style="background-color: rgba(247, 247, 247, 0.8)"
+        class="rounded text-center text-sm-left col-10 offset-1 col-sm-3 offset-sm-7 d-flex flex-column justify-content-center align-items-start p-3"
       >
         <h1 class="font-weight-bold m-auto m-sm-0" style="color: #613476">LOREM IPSUM</h1>
         <p>Lorem ipsum dolor sit amet, et felis integer. Cras ac, duis nisl magna est sociis, neque in odio vel, sit lobortis erat. Fugit quam, ut pede ut ante, in viverra eros dictum nisl ligula.</p>

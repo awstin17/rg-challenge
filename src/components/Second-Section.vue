@@ -2,8 +2,8 @@
   <div id="container" class="container-fluid p-0 parallax-desktop">
     <div class="row no-gutters" style="height: 600px">
       <div
-        style="background-color: rgba(247, 247, 247, 0.8); border-radius: 7%"
-        class="col-10 offset-1 col-sm-6 offset-sm-2 my-auto p-3"
+        style="background-color: rgba(247, 247, 247, 0.8)"
+        class="rounded col-10 offset-1 col-sm-3 offset-sm-2 my-auto p-3"
       >
         <h1 class="text-center font-weight-bold" style="color: #613476">LOREM IPSUM</h1>
         <button
