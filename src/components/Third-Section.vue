@@ -37,7 +37,7 @@
             <div style="width: 80px" class="border rounded-circle image-container mx-auto mb-3">
               <img class="p-3" src="../assets/home-retention.svg" width="100%" />
             </div>
-            <h5>LOREM IPSUM</h5>
+            <h5>LOREM</h5>
           </div>
         </div>
       </div>
