@@ -6,7 +6,7 @@
         <p>Lorem ipsum dolor sit amet, et felis integer. Cras ac, duis nisl magna est sociis, neque in odio vel, sit lobortis erat. Fugit quam, ut pede ut ante, in viverra eros dictum nisl ligula, lacus est vehicula donec. Quam in ac quam. Duis et, non arcu imperdiet sem tellus suspendisse. Condimentum non aliquet sed, quisque risus vitae semper duis feugiat .</p>
         <a href style="color: #613476">> Lorem Ipsum</a>
       </div>
-      <div class="col-12 col-sm-6 offset-sm-1 pb-3 pb-sm-0">
+      <div class="col-12 col-sm-6 offset-sm-1 pb-5 pb-sm-0">
         <img style="background-size: cover" width="100%" src="../assets/img-1.jpg" />
       </div>
     </div>
