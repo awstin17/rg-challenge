@@ -10,7 +10,7 @@
         style="background-color: #FAFAFA"
         class="col-6 offset-1 d-flex flex-column justify-content-around p-5"
       >
-        <div class="row mt-5">
+        <div class="row my-5">
           <div class="col-5 offset-1 text-center">
             <div style="width: 80px" class="border rounded-circle image-container mx-auto mb-3">
               <img class="p-3" src="../assets/home-expertise.svg" width="100%" />
