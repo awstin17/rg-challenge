@@ -2,11 +2,12 @@
   <div id="container" class="container-fluid p-0 parallax-desktop">
     <div class="row no-gutters align-items-end" style="min-height: 600px">
       <div
-        class="col-10 offset-1 col-sm-3 offset-sm-7 d-flex flex-column justify-content-center align-items-start"
+        style="background-color: rgba(247, 247, 247, 0.8); border-radius: 7%"
+        class="text-center text-sm-left col-10 offset-1 col-sm-3 offset-sm-7 d-flex flex-column justify-content-center align-items-start p-3"
       >
-        <h1 class="font-weight-bold" style="color: #613476">LOREM IPSUM</h1>
+        <h1 class="font-weight-bold m-auto m-sm-0" style="color: #613476">LOREM IPSUM</h1>
         <p>Lorem ipsum dolor sit amet, et felis integer. Cras ac, duis nisl magna est sociis, neque in odio vel, sit lobortis erat. Fugit quam, ut pede ut ante, in viverra eros dictum nisl ligula.</p>
-        <button style="background-color: #FF7218" class="btn text-white">BUTTON BUTTON</button>
+        <button style="background-color: #FF7218" class="btn text-white m-auto m-sm-0">BUTTON BUTTON</button>
       </div>
       <div class="col-6 offset-1"></div>
     </div>
@@ -27,6 +28,6 @@ export default class FourthSection extends Vue {
 #container {
   background-image: url("../assets/banner-2.jpg");
   background-size: cover;
-  background-position: 50% 50%;
+  background-position: 30%;
 }
 </style>

@@ -41,8 +41,6 @@ export default class App extends Vue {}
 }
 
 .parallax-desktop {
-  @media (min-width: 576px) {
-    background-attachment: fixed;
-  }
+  background-attachment: fixed;
 }
 </style>
