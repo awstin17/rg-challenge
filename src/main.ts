@@ -17,8 +17,6 @@ library.add(faUserSecret, faAngleLeft, faAngleRight)
 Vue.component("font-awesome-icon", FontAwesomeIcon)
 Vue.config.productionTip = false
 
-AOS.init()
-
 new Vue({
   created() {
     AOS.init()
