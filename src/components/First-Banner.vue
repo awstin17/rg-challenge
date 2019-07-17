@@ -18,7 +18,6 @@ import { Component, Vue } from "vue-property-decorator";
 export default class FirstBanner extends Vue {}
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped lang="scss">
 #first-banner-container {
   background-image: url("../assets/banner-1.jpg");

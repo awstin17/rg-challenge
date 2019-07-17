@@ -3,7 +3,7 @@
     <Header />
     <FirstSection />
     <FirstBanner />
-    <ThirdSection />
+    <SecondSection />
     <FourthSection />
     <FifthSection />
     <Footer />
@@ -15,7 +15,7 @@ import { Component, Vue } from "vue-property-decorator";
 import Header from "./components/Header.vue";
 import FirstSection from "./components/First-Section.vue";
 import FirstBanner from "./components/First-Banner.vue";
-import ThirdSection from "./components/Third-Section.vue";
+import SecondSection from "./components/Second-Section.vue";
 import FourthSection from "./components/Fourth-Section.vue";
 import FifthSection from "./components/Fifth-Section.vue";
 import Footer from "./components/footer.vue";
@@ -25,7 +25,7 @@ import Footer from "./components/footer.vue";
     Header,
     FirstSection,
     FirstBanner,
-    ThirdSection,
+    SecondSection,
     FourthSection,
     FifthSection,
     Footer

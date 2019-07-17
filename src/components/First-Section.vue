@@ -5,6 +5,7 @@
         id="left-column"
         data-aos="fade-right"
         data-aos-duration="500"
+        data-aos-delay="250"
         class="col-10 offset-1 col-sm-4 offset-sm-1 col-lg-3 offset-lg-2 d-flex flex-column justify-content-center py-5 py-sm-4"
       >
         <h1 id="title" class="text-secondary">LOREM IPSUM</h1>
