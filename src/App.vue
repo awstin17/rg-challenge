@@ -4,7 +4,7 @@
     <FirstSection />
     <FirstBanner />
     <SecondSection />
-    <FourthSection />
+    <SecondBanner />
     <FifthSection />
     <Footer />
   </div>
@@ -16,7 +16,7 @@ import Header from "./components/Header.vue";
 import FirstSection from "./components/First-Section.vue";
 import FirstBanner from "./components/First-Banner.vue";
 import SecondSection from "./components/Second-Section.vue";
-import FourthSection from "./components/Fourth-Section.vue";
+import SecondBanner from "./components/Second-Banner.vue";
 import FifthSection from "./components/Fifth-Section.vue";
 import Footer from "./components/footer.vue";
 
@@ -26,7 +26,7 @@ import Footer from "./components/footer.vue";
     FirstSection,
     FirstBanner,
     SecondSection,
-    FourthSection,
+    SecondBanner,
     FifthSection,
     Footer
   }
