@@ -25,7 +25,7 @@ import Carousel from "./carousel.vue";
     Carousel
   }
 })
-export default class FifthSection extends Vue {}
+export default class ThirdSection extends Vue {}
 </script>
 
 <style scoped lang="scss">

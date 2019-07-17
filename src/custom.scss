@@ -1,5 +1,10 @@
 // Theming 
 
+$font-family-base: "Open Sans",
+Helvetica,
+Arial,
+sans-serif;
+
 $primary: #a041a0;
 $secondary: #613476;
 $info: #FF7218;
@@ -27,4 +32,14 @@ $carousel-indicator-height: 10px;
 .hvr-grow:active {
     -webkit-transform: scale(1.1);
     transform: scale(1.1);
+}
+
+// Additional utility classes
+
+.parallax {
+    background-attachment: fixed;
+}
+
+.background-cover {
+    background-size: cover;
 }

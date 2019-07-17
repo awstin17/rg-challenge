@@ -5,7 +5,7 @@
     <FirstBanner />
     <SecondSection />
     <SecondBanner />
-    <FifthSection />
+    <ThirdSection />
     <Footer />
   </div>
 </template>
@@ -17,7 +17,7 @@ import FirstSection from "./components/First-Section.vue";
 import FirstBanner from "./components/First-Banner.vue";
 import SecondSection from "./components/Second-Section.vue";
 import SecondBanner from "./components/Second-Banner.vue";
-import FifthSection from "./components/Fifth-Section.vue";
+import ThirdSection from "./components/Third-Section.vue";
 import Footer from "./components/footer.vue";
 
 @Component({
@@ -27,24 +27,11 @@ import Footer from "./components/footer.vue";
     FirstBanner,
     SecondSection,
     SecondBanner,
-    FifthSection,
+    ThirdSection,
     Footer
   }
 })
 export default class App extends Vue {}
 </script>
 
-<style lang="scss">
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700,800&display=swap");
-#app {
-  font-family: "Open Sans", Helvetica, Arial, sans-serif;
-}
-
-.parallax {
-  background-attachment: fixed;
-}
-
-.background-cover {
-  background-size: cover;
-}
-</style>
+<style lang="scss"></style>
