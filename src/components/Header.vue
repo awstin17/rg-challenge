@@ -4,7 +4,7 @@
     class="container-fluid parallax background-cover d-flex flex-column pt-4"
   >
     <div class="row">
-      <div class="col-4 offset-sm-1">
+      <div class="col-4 offset-1">
         <img id="roostergrin-logo" src="../assets/logo-white.svg" />
       </div>
     </div>
