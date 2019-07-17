@@ -13,13 +13,22 @@
         class="col-12 col-sm-6 offset-sm-1 p-3 d-flex flex-column justify-content-center align-items-center py-5"
       >
         <div style="max-width: 700px" class="row w-100 mb-5">
-          <div class="col-6 col-sm-5 offset-sm-1 text-center">
+          <div
+            data-aos="zoom-in"
+            data-aos-duration="1000"
+            class="col-6 col-sm-5 offset-sm-1 text-center"
+          >
             <div style="width: 80px" class="border rounded-circle image-container mx-auto mb-3">
               <img class="p-3" src="../assets/home-expertise.svg" width="100%" />
             </div>
             <h5>LOREM</h5>
           </div>
-          <div class="col-6 text-center">
+          <div
+            data-aos="zoom-in"
+            data-aos-duration="1000"
+            data-aos-delay="250"
+            class="col-6 text-center"
+          >
             <div style="width: 80px" class="border rounded-circle image-container mx-auto mb-3">
               <img class="p-3" src="../assets/home-hygiene.svg" width="100%" />
             </div>
@@ -27,13 +36,22 @@
           </div>
         </div>
         <div class="row w-100">
-          <div class="col-6 col-sm-5 offset-sm-1 text-center">
+          <div
+            data-aos="zoom-in"
+            data-aos-duration="1000"
+            class="col-6 col-sm-5 offset-sm-1 text-center"
+          >
             <div style="width: 80px" class="border rounded-circle image-container mx-auto mb-3">
               <img class="p-3" src="../assets/home-lab.svg" width="100%" />
             </div>
             <h5>LOREM IPSUM</h5>
           </div>
-          <div class="col-6 text-center">
+          <div
+            data-aos="zoom-in"
+            data-aos-duration="1000"
+            data-aos-delay="250"
+            class="col-6 text-center"
+          >
             <div style="width: 80px" class="border rounded-circle image-container mx-auto mb-3">
               <img class="p-3" src="../assets/home-retention.svg" width="100%" />
             </div>
