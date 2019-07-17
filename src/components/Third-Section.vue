@@ -71,7 +71,7 @@ import { Component, Prop, Vue } from "vue-property-decorator";
 
 @Component
 export default class ThirdSection extends Vue {
-  @Prop() private msg!: string;
+  @Prop() private icon!: string;
 }
 </script>
 
