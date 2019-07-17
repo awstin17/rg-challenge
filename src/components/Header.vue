@@ -1,12 +1,12 @@
 <template>
-  <div style="min-height: 600px" id="container" class="pt-4 container-fluid parallax-desktop">
+  <div id="container" class="pt-4 container-fluid parallax-desktop">
     <div class="row no-gutters">
       <div class="col-4 offset-sm-1">
         <img style="max-width: 200px; min-width: 150px;" src="../assets/logo-white.svg" />
       </div>
     </div>
-    <div class="row no-gutters align-items-center" style="height: 500px">
-      <div class="col-12">
+    <div class="row no-gutters align-items-center" style="height: 600px">
+      <div class="col-12" data-aos="fade" data-aos-duration="1000">
         <img
           src="../assets/welcome to@2x.png"
           width="100%"

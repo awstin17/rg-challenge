@@ -6,7 +6,7 @@
       </div>
     </div>
     <div class="row">
-      <div class="col-4 offset-4 text-center">
+      <div class="col-12 col-sm-4 offset-sm-4 text-center">
         <a href class="mr-2">
           <svg
             style="fill: #613476"
