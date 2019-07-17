@@ -32,8 +32,4 @@ export default class Footer extends Vue {
 #footer-container {
   background-color: #fafafa;
 }
-
-.icons {
-  // fill: #613476;
-}
 </style>

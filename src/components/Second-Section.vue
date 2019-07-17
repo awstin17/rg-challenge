@@ -20,7 +20,9 @@
       >
         <div class="row icon-row mb-5">
           <div data-aos="zoom-in" data-aos-duration="500" class="col-5 offset-1 text-center">
-            <div class="border border-primary icon-container rounded-circle mx-auto mb-3 p-3">
+            <div
+              class="hvr-grow border border-primary icon-container rounded-circle mx-auto mb-3 p-3"
+            >
               <img src="../assets/home-expertise.svg" />
             </div>
             <h5>LOREM</h5>
@@ -31,7 +33,9 @@
             data-aos-delay="250"
             class="col-5 col-sm-6 text-center"
           >
-            <div class="border border-primary icon-container rounded-circle mx-auto mb-3 p-3">
+            <div
+              class="hvr-grow border border-primary icon-container rounded-circle mx-auto mb-3 p-3"
+            >
               <img src="../assets/home-hygiene.svg" />
             </div>
             <h5>LOREM IPSUM</h5>
@@ -39,7 +43,9 @@
         </div>
         <div class="row icon-row">
           <div data-aos="zoom-in" data-aos-duration="500" class="col-5 offset-1 text-center">
-            <div class="border border-primary icon-container rounded-circle mx-auto mb-3 p-3">
+            <div
+              class="hvr-grow border border-primary icon-container rounded-circle mx-auto mb-3 p-3"
+            >
               <img src="../assets/home-lab.svg" />
             </div>
             <h5>LOREM IPSUM</h5>
@@ -50,7 +56,9 @@
             data-aos-delay="250"
             class="col-5 col-sm-6 text-center"
           >
-            <div class="border border-primary icon-container rounded-circle mx-auto mb-3 p-3">
+            <div
+              class="hvr-grow border border-primary icon-container rounded-circle mx-auto mb-3 p-3"
+            >
               <img src="../assets/home-retention.svg" />
             </div>
             <h5>LOREM</h5>
