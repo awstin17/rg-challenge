@@ -68,11 +68,10 @@
 
 <script lang="ts">
 import { Component, Prop, Vue } from "vue-property-decorator";
+import Icon from "./icon.vue";
 
 @Component
-export default class ThirdSection extends Vue {
-  @Prop() private icon!: string;
-}
+export default class ThirdSection extends Vue {}
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->

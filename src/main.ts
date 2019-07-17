@@ -2,7 +2,8 @@ import Vue from "vue"
 import App from "./App.vue"
 import "./registerServiceWorker"
 import "bootstrap"
-import "bootstrap/dist/css/bootstrap.min.css"
+// import "bootstrap/dist/css/bootstrap.min.css"
+import "./styles.scss"
 import { library } from "@fortawesome/fontawesome-svg-core"
 import {
   faUserSecret,

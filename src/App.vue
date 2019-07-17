@@ -40,7 +40,7 @@ export default class App extends Vue {}
   font-family: "Open Sans", Helvetica, Arial, sans-serif;
 }
 
-.parallax-desktop {
+.parallax {
   background-attachment: fixed;
 }
 </style>
