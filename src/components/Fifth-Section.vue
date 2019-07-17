@@ -52,7 +52,7 @@
             href="#carouselExampleControls"
             role="button"
             data-slide="prev"
-            style="left: -70px"
+            style="left: -60px"
           >
             <span class style="color: #613476" aria-hidden="true">
               <font-awesome-icon class="h1" icon="angle-left" />
