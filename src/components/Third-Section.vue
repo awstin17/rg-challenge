@@ -2,6 +2,9 @@
   <div id="container" class="container-fluid p-0">
     <div style="min-height: 600px" class="row no-gutters">
       <div
+        data-aos="fade-right"
+        data-aos-duration="500"
+        data-aos-delay="250"
         class="col-12 col-sm-3 offset-sm-2 d-flex flex-column justify-content-center align-items-start px-4 py-5"
       >
         <h1 class="font-weight-bold">LOREM IPSUM DOLOR SIT AMET</h1>
@@ -15,7 +18,7 @@
         <div style="max-width: 700px" class="row w-100 mb-5">
           <div
             data-aos="zoom-in"
-            data-aos-duration="1000"
+            data-aos-duration="500"
             class="col-6 col-sm-5 offset-sm-1 text-center"
           >
             <div style="width: 80px" class="border rounded-circle image-container mx-auto mb-3">
@@ -25,7 +28,7 @@
           </div>
           <div
             data-aos="zoom-in"
-            data-aos-duration="1000"
+            data-aos-duration="500"
             data-aos-delay="250"
             class="col-6 text-center"
           >
@@ -38,7 +41,7 @@
         <div class="row w-100">
           <div
             data-aos="zoom-in"
-            data-aos-duration="1000"
+            data-aos-duration="500"
             class="col-6 col-sm-5 offset-sm-1 text-center"
           >
             <div style="width: 80px" class="border rounded-circle image-container mx-auto mb-3">
@@ -48,7 +51,7 @@
           </div>
           <div
             data-aos="zoom-in"
-            data-aos-duration="1000"
+            data-aos-duration="500"
             data-aos-delay="250"
             class="col-6 text-center"
           >

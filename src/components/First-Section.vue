@@ -1,7 +1,11 @@
 <template>
   <div class="container-fluid p-0">
     <div style="min-height: 526px" class="row no-gutters">
-      <div class="col-12 col-sm-3 offset-sm-2 d-flex flex-column justify-content-center py-5 px-2">
+      <div
+        data-aos="fade-right"
+        data-aos-duration="500"
+        class="col-12 col-sm-3 offset-sm-2 d-flex flex-column justify-content-center py-5 px-2"
+      >
         <h1 class="font-weight-bold" style="color: #613476">Lorem Ipsum</h1>
         <p>Lorem ipsum dolor sit amet, et felis integer. Cras ac, duis nisl magna est sociis, neque in odio vel, sit lobortis erat. Fugit quam, ut pede ut ante, in viverra eros dictum nisl ligula, lacus est vehicula donec. Quam in ac quam. Duis et, non arcu imperdiet sem tellus suspendisse. Condimentum non aliquet sed, quisque risus vitae semper duis feugiat .</p>
         <a href style="color: #613476">> Lorem Ipsum</a>
