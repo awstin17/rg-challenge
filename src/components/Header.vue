@@ -1,5 +1,8 @@
 <template>
-  <div id="hero-container" class="container-fluid parallax d-flex flex-column pt-4">
+  <div
+    id="hero-container"
+    class="container-fluid parallax background-cover d-flex flex-column pt-4"
+  >
     <div class="row">
       <div class="col-4 offset-sm-1">
         <img id="roostergrin-logo" src="../assets/logo-white.svg" />
@@ -26,7 +29,6 @@ export default class Header extends Vue {}
 <style scoped lang="scss">
 #hero-container {
   background-image: url("../assets/hero.jpg");
-  background-size: cover;
   background-position: 50% 50%;
   min-height: 750px;
 }

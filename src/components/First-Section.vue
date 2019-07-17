@@ -13,7 +13,8 @@
         >Lorem ipsum dolor sit amet, et felis integer. Cras ac, duis nisl magna est sociis, neque in odio vel, sit lobortis erat. Fugit quam, ut pede ut ante, in viverra eros dictum nisl ligula, lacus est vehicula donec. Quam in ac quam. Duis et, non arcu imperdiet sem tellus suspendisse. Condimentum non aliquet sed, quisque risus vitae semper duis feugiat .</p>
         <a id="link" href>> Lorem Ipsum</a>
       </div>
-      <div id="hikeimg-column" class="col-12 col-sm-6 offset-sm-1"></div>
+      <!-- Image is background and not img tag for covering purposes -->
+      <div id="hikeimg-column" class="background-cover col-12 col-sm-6 offset-sm-1"></div>
     </div>
   </div>
 </template>
@@ -33,7 +34,6 @@ export default class FirstSection extends Vue {}
 #hikeimg-column {
   background-image: url("../assets/img-1.jpg");
   background-position: 75%, 50%;
-  background-size: cover;
   min-height: 450px;
 }
 </style>

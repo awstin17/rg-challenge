@@ -2,7 +2,7 @@
   <div id="app">
     <Header />
     <FirstSection />
-    <SecondSection />
+    <FirstBanner />
     <ThirdSection />
     <FourthSection />
     <FifthSection />
@@ -14,7 +14,7 @@
 import { Component, Vue } from "vue-property-decorator";
 import Header from "./components/Header.vue";
 import FirstSection from "./components/First-Section.vue";
-import SecondSection from "./components/Second-Section.vue";
+import FirstBanner from "./components/First-Banner.vue";
 import ThirdSection from "./components/Third-Section.vue";
 import FourthSection from "./components/Fourth-Section.vue";
 import FifthSection from "./components/Fifth-Section.vue";
@@ -24,7 +24,7 @@ import Footer from "./components/footer.vue";
   components: {
     Header,
     FirstSection,
-    SecondSection,
+    FirstBanner,
     ThirdSection,
     FourthSection,
     FifthSection,
@@ -42,5 +42,9 @@ export default class App extends Vue {}
 
 .parallax {
   background-attachment: fixed;
+}
+
+.background-cover {
+  background-size: cover;
 }
 </style>
