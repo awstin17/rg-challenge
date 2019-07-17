@@ -17,7 +17,7 @@
 </template>
 
 <script lang="ts">
-import { Component, Prop, Vue } from "vue-property-decorator";
+import { Component, Vue } from "vue-property-decorator";
 import Carousel from "./carousel.vue";
 
 @Component({
@@ -25,12 +25,9 @@ import Carousel from "./carousel.vue";
     Carousel
   }
 })
-export default class FifthSection extends Vue {
-  @Prop() private msg!: string;
-}
+export default class FifthSection extends Vue {}
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped lang="scss">
 #third-section-row {
   min-height: 600px;
