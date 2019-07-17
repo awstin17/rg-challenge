@@ -1,43 +1,8 @@
-<<<<<<< HEAD
 # challenge
 
-## Project setup
-```
-npm install
-```
+## Project setup / viewing on local machine
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+type `npm install` into your terminal to install dependencies
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Then type `npm run serve` to serve you project on localhost. It's the standard Vue CLI server configuration. Pretty simple!
 
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Run your end-to-end tests
-```
-npm run test:e2e
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-=======
-# rg-challenge
->>>>>>> 9ae1b883ea67bc9296c07a9083b39fc7250ae219
