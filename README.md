@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # challenge
 
 ## Project setup
@@ -37,3 +38,6 @@ npm run test:unit
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# rg-challenge
+>>>>>>> 9ae1b883ea67bc9296c07a9083b39fc7250ae219
