@@ -9,7 +9,7 @@
       </div>
     </div>
     <div class="row m-auto">
-      <div class="col-12 mb-5" data-aos="fade" data-aos-duration="500">
+      <div class="col-12 mb-5" data-aos="fade" data-aos-duration="750">
         <!-- Welcome to text is image to achieve no fill font. SVG tag difficult to manipulate -->
         <img id="welcometo-image" src="../assets/welcome to.png" width="100%" class="m-auto" />
         <h1 id="company-title" class="text-center text-white">Rooster Grin</h1>
